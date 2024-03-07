@@ -14,7 +14,7 @@ I'm a Software developer who likes to work on the profound applications on Machi
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MegaBeing&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MegaBeing&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" alt="Face with Spiral Eyes" width="25" height="25" /> Coding 
-![LeetCode Stats](https://leetcard.jacoblin.cool/user8004i?theme=dark&font=Abel)
+![LeetCode Stats](https://leetcard.jacoblin.cool/M3GAB31N6?theme=dark&font=Abel)
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Biking%20Light%20Skin%20Tone.png" alt="Man Biking Light Skin Tone" width="25" height="25" /> Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=megabeing&limit=5&theme=tokyonight&combine_all_yearly_contributions=true) 
 
