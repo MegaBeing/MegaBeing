@@ -1,4 +1,5 @@
-<img src="profile_header.gif" alt="drawing" width="1600"/>  
+
+![Sahil Jain](https://github.com/MegaBeing/MegaBeing/assets/102673690/01dd9651-348f-43bf-bc9b-2b8e0627f5e6)
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" /> About Me:
 I'm a Software developer who likes to work on the profound applications on Machine Learning, Deep Learning, etc
