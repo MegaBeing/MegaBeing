@@ -1,4 +1,4 @@
-<img src="ezgif-2-c119ed4660.gif" alt="drawing" width="1600"/>  
+<img src="profile_header.gif" alt="drawing" width="1600"/>  
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" /> About Me:
 I'm a Software developer who likes to work on the profound applications on Machine Learning, Deep Learning, etc
